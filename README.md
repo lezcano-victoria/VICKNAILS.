@@ -42,6 +42,54 @@
       width: 100%;
       font-size: 0.9em;
     }
+
+
+    <footer id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <form class="card mt-4">
+              <div class="card-body">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Name">
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Email">
+                </div>
+                <div class="form-group">
+                  <textarea cols="30" rows="10" placeholder="Message" class="form-control"></textarea>
+                </div>
+                <button class="btn btn-outline-secondary btn-block">
+                  Send
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+ <!-- SECTION -->
+    <section id="header">
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="header-content-left">
+              <img src="/index.hrml/index.html.jpeg" style="width: 100%;">
+            </div>  
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="header-content-right">
+              <h1 class="display-4">Sit asperiores voluptas atque autem?</h1>
+              <p class="mt-5">Amet possimus omnis dolore aliquid quam. Officiis nulla nam laudantium iure amet. Debitis maiores enim modi porro sunt. Ratione harum quasi odit nemo rerum eveniet dolorem quas rem asperiores voluptate!</p>
+              <a href="#" class="btn btn-outline-secondary header-btn btn-lg mt-2">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
   </style>
 </head>
 <body>
